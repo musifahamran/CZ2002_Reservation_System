@@ -1,1 +1,2 @@
-# SleepIsForTheWeak
+# SleepIsForTheWeak Group
+OOP project
